@@ -29,6 +29,7 @@ gem "jbuilder"
 
 gem "bootstrap-sass"
 
+
 # Use Redis adapter to run Action Cable in production
 # gem "redis", "~> 4.0"
 
@@ -72,3 +73,5 @@ group :test do
   gem "selenium-webdriver"
   gem "webdrivers"
 end
+
+gem "devise", "~> 4.9"
